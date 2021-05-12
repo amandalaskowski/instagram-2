@@ -1,0 +1,46 @@
+.div1{
+    text-align: center;
+    padding-top: 20px;
+    
+}
+.div2{
+    text-align: center;
+    padding-top: 5px;
+}
+
+.box1{
+    background-color: white;
+    margin: auto;
+    width: 600px;
+    margin-top: 15px;
+    
+
+}
+.image1{
+    width: 100%;
+}
+h2{
+    padding: 10px;
+    margin: 0%;
+}
+p{
+    padding: 10px;
+    margin: 0%;
+}
+span{
+    padding: 10px;
+    color: gray;
+}
+.box1-1{
+    display: inline-block;
+    width: 80%;
+    
+}
+.box1-2{
+    display:inline-block;
+    width: 18%;
+    text-align: right;
+    
+    
+    
+}
